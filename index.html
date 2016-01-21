@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+
+    <script type="text/javascript" src="lib/turkiye-haritasi.js"></script>
+
+
+    <script>
+        angular.module('mainModule', ['turkeyMap']).controller('mainController', function ($scope) {
+
+
+        });
+
+    </script>
+
+
+</head>
+
+
+<body ng-app="mainModule" ng-controller="mainController">
+
+<svg-turkiye-haritasi></svg-turkiye-haritasi>
+
+</body>
+</html>
