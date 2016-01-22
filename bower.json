@@ -1,0 +1,27 @@
+{
+  "name": "tr-map",
+  "version": "0.0.1",
+  "homepage": "https://github.com/previousdeveloper/angular-turkiye-haritasi",
+  "authors": [
+  ],
+  "contributors": [
+  ],
+  "description": "Angular Türkiye Svg Map Directive",
+  "main": "./lib/turkiye-haritasi.js",
+  "keywords": [
+    "AngularJS",
+    "Angular",
+    "Türkiye Haritası",
+    "Map",
+    "Svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "src",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js"
+  ]
+}
