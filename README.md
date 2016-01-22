@@ -1,4 +1,4 @@
-# Angular-Turkiye-Haritasi
+# Angular-Turkiye-Haritasi :rocket:
 
 https://github.com/dnomak/svg-turkiye-haritasi referans alınmıştır.
 
@@ -22,3 +22,6 @@ var myApp = angular.module('app', ['turkeyMap']);
 <svg-turkiye-haritasi></svg-turkiye-haritasi>
 
 ```
+
+
+## Eksikler icin PR :)
